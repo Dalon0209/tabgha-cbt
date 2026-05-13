@@ -215,7 +215,7 @@ CheatLog        — Anti-cheat violation log
 
 ## 📜 License
 
-Private — SMP Kristen Tabgha Academic Use Only © 2024
+Private — SMP Kristen Tabgha Academic Use Only © 2026
 
 ---
 
